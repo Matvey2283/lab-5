@@ -3,4 +3,4 @@ sum = 0 #переменная
 for i in range(len(arr)): #цикл
     if arr[i] < 0 and i % 3 == 0:#условие1
         sum += arr[i]
-print(i)
+print(i)#ответ
